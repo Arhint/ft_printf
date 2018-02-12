@@ -20,7 +20,7 @@ int main(void)
 	unsigned short	d = 65535;
 
 	
-	setlocale(P_ALL, "en_US.UTF-8");
+	// setlocale(P_ALL, "en_US.UTF-8");
 	s = "TESTTEST";
 	
 //	ft_printf("mine:{%-5d}\n", k);
