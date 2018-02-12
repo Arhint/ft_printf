@@ -38,8 +38,8 @@ int main(void)
 //	m = ft_printf("mine:{%.30S}\n", L"ÊM-M-^QÊM-^XØ‰∏M-ÂM-^O™ÁM-^L´„M-M-^B");
 //	k =printf("orig:{%-15.4S}\n", L"ÊM-M-^QÊM-^XØ‰∏M-ÂM-^O™ÁM-^L´„M-M-^B");
 	
-	m =ft_printf("{%30.4S}\n", L"我是一只猫。");
-	k =   printf("{%30.4S}\n", L"我是一只猫。");
+	m =ft_printf("{%04.3i}\n", 42);
+	k =   printf("{%04.3i}\n", 42);
 //
 //	printf("k=%d\n", k);
 

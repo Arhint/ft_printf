@@ -47,6 +47,9 @@ int		ft_print_zerodi(t_flg *lol, char *s, int len)
 
 void	ft_notminus(t_flg *lol, char *s, int len)
 {
+	if (lol->width > 0 && lol->prec > len)
+		lol->width -= (lol->prec - len);
+	ft_print_width(lol, s);
 	if (lol->prec > lol->width)
 	{
 		ft_plus_space(lol, s);

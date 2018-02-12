@@ -6,89 +6,89 @@
 
 #IncludeRegexTransform: 
 
-/Users/ssavchen/ft_printf_new/ft_atoll.c
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/ft_atoll.c
 includes/ft_printf.h
-/Users/ssavchen/ft_printf_new/includes/ft_printf.h
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/includes/ft_printf.h
 
-/Users/ssavchen/ft_printf_new/ft_blanks.c
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/ft_blanks.c
 
-/Users/ssavchen/ft_printf_new/ft_create_flg.c
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/ft_create_flg.c
 includes/ft_printf.h
-/Users/ssavchen/ft_printf_new/includes/ft_printf.h
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/includes/ft_printf.h
 
-/Users/ssavchen/ft_printf_new/ft_doflagxo.c
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/ft_doflagxo.c
 includes/ft_printf.h
-/Users/ssavchen/ft_printf_new/includes/ft_printf.h
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/includes/ft_printf.h
 
-/Users/ssavchen/ft_printf_new/ft_isdigit.c
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/ft_isdigit.c
 
-/Users/ssavchen/ft_printf_new/ft_itoa_base.c
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/ft_itoa_base.c
 includes/ft_printf.h
-/Users/ssavchen/ft_printf_new/includes/ft_printf.h
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/includes/ft_printf.h
 
-/Users/ssavchen/ft_printf_new/ft_print_c.c
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/ft_print_c.c
 includes/ft_printf.h
-/Users/ssavchen/ft_printf_new/includes/ft_printf.h
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/includes/ft_printf.h
 
-/Users/ssavchen/ft_printf_new/ft_print_di.c
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/ft_print_di.c
 includes/ft_printf.h
-/Users/ssavchen/ft_printf_new/includes/ft_printf.h
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/includes/ft_printf.h
 
-/Users/ssavchen/ft_printf_new/ft_print_flags.c
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/ft_print_flags.c
 includes/ft_printf.h
-/Users/ssavchen/ft_printf_new/includes/ft_printf.h
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/includes/ft_printf.h
 
-/Users/ssavchen/ft_printf_new/ft_print_o.c
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/ft_print_o.c
 includes/ft_printf.h
-/Users/ssavchen/ft_printf_new/includes/ft_printf.h
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/includes/ft_printf.h
 
-/Users/ssavchen/ft_printf_new/ft_print_p.c
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/ft_print_p.c
 includes/ft_printf.h
-/Users/ssavchen/ft_printf_new/includes/ft_printf.h
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/includes/ft_printf.h
 
-/Users/ssavchen/ft_printf_new/ft_print_s.c
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/ft_print_s.c
 includes/ft_printf.h
-/Users/ssavchen/ft_printf_new/includes/ft_printf.h
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/includes/ft_printf.h
 
-/Users/ssavchen/ft_printf_new/ft_print_u.c
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/ft_print_u.c
 includes/ft_printf.h
-/Users/ssavchen/ft_printf_new/includes/ft_printf.h
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/includes/ft_printf.h
 
-/Users/ssavchen/ft_printf_new/ft_print_x.c
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/ft_print_x.c
 includes/ft_printf.h
-/Users/ssavchen/ft_printf_new/includes/ft_printf.h
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/includes/ft_printf.h
 
-/Users/ssavchen/ft_printf_new/ft_printf.c
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/ft_printf.c
 includes/ft_printf.h
-/Users/ssavchen/ft_printf_new/includes/ft_printf.h
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/includes/ft_printf.h
 
-/Users/ssavchen/ft_printf_new/ft_putchar.c
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/ft_putchar.c
 includes/libft.h
-/Users/ssavchen/ft_printf_new/includes/libft.h
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/includes/libft.h
 
-/Users/ssavchen/ft_printf_new/ft_putstr.c
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/ft_putstr.c
 includes/libft.h
-/Users/ssavchen/ft_printf_new/includes/libft.h
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/includes/libft.h
 
-/Users/ssavchen/ft_printf_new/ft_strchr.c
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/ft_strchr.c
 includes/libft.h
-/Users/ssavchen/ft_printf_new/includes/libft.h
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/includes/libft.h
 
-/Users/ssavchen/ft_printf_new/ft_strcpy.c
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/ft_strcpy.c
 includes/libft.h
-/Users/ssavchen/ft_printf_new/includes/libft.h
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/includes/libft.h
 
-/Users/ssavchen/ft_printf_new/ft_strdup.c
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/ft_strdup.c
 includes/libft.h
-/Users/ssavchen/ft_printf_new/includes/libft.h
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/includes/libft.h
 
-/Users/ssavchen/ft_printf_new/ft_strlen.c
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/ft_strlen.c
 includes/libft.h
-/Users/ssavchen/ft_printf_new/includes/libft.h
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/includes/libft.h
 
-/Users/ssavchen/ft_printf_new/ft_toupper.c
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/ft_toupper.c
 
-/Users/ssavchen/ft_printf_new/includes/ft_printf.h
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/includes/ft_printf.h
 locale.h
 -
 stdio.h
@@ -98,9 +98,9 @@ wchar.h
 stdarg.h
 -
 libft.h
-/Users/ssavchen/ft_printf_new/includes/libft.h
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/includes/libft.h
 
-/Users/ssavchen/ft_printf_new/includes/libft.h
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/includes/libft.h
 unistd.h
 -
 stdlib.h
@@ -110,7 +110,7 @@ string.h
 stdint.h
 -
 
-/Users/ssavchen/ft_printf_new/main.c
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/main.c
 includes/ft_printf.h
-/Users/ssavchen/ft_printf_new/includes/ft_printf.h
+/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/includes/ft_printf.h
 
