@@ -1,3 +1,0 @@
-/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/arh/study/ft_printf_new02.08/ft_printf/ft_printf/cmake-build-debug/CMakeFiles/ft_printf_new.dir

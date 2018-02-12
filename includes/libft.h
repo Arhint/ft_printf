@@ -16,7 +16,6 @@
 # include <unistd.h>
 # include <stdlib.h>
 # include <string.h>
-# include <stdint.h>
 
 typedef struct		s_list
 {
@@ -88,6 +87,5 @@ int					ft_count_words(char const *s, char c);
 void				ft_swap(char *a, char *b);
 int					ft_len_int(int n);
 int					ft_sqrt(int nb);
-intmax_t			ft_atoll(const char *str);
 
 #endif
