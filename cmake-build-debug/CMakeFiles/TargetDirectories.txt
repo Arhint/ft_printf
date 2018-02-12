@@ -1,0 +1,3 @@
+/Users/ssavchen/ft_printf_new/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ssavchen/ft_printf_new/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ssavchen/ft_printf_new/cmake-build-debug/CMakeFiles/ft_printf_new.dir
