@@ -1,7 +1,7 @@
 #ifndef FT_PRINTF_H
 # define FT_PRINTF_H
 
-#include <locale.h>
+// #include <locale.h>
 #include <stdio.h>
 # include <wchar.h>
 # include <stdarg.h>
