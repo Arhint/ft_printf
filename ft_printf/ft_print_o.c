@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_print_o.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ssavchen <ssavchen@student.42.fr>          +#+  +:+       +#+        */
+/*   By: arh <arh@student.42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/02/12 14:53:05 by ssavchen          #+#    #+#             */
-/*   Updated: 2018/02/12 16:06:49 by ssavchen         ###   ########.fr       */
+/*   Updated: 2018/02/13 00:07:57 by arh              ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -37,7 +37,8 @@ int		ft_print_o(va_list ap, t_flg *lol, int c)
 	int		len;
 
 	n = va_arg(ap, void *);
-	if (!lol->l && !lol->ll && !lol->h && !lol->hh && !lol->j && !lol->z)
+	if (!lol->l && !lol->ll && !lol->h && !lol->hh && !lol->j && !lol->z &&
+			c != 'O')
 		res = ft_itoa_baseull((unsigned int)n, 8);
 	if (lol->l || c == 'O')
 		res = ft_itoa_baseull((unsigned long int)n, 8);

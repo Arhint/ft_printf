@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_print_c.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ssavchen <ssavchen@student.42.fr>          +#+  +:+       +#+        */
+/*   By: arh <arh@student.42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/02/12 14:33:57 by ssavchen          #+#    #+#             */
-/*   Updated: 2018/02/12 18:44:00 by ssavchen         ###   ########.fr       */
+/*   Updated: 2018/02/13 00:09:09 by arh              ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -106,6 +106,8 @@ int		ft_print_cbig(va_list ap, t_flg *lol)
 {
 	int		c;
 
+	if (MB_CUR_MAX == 1)
+		return (ft_print_c(ap, lol));
 	c = va_arg(ap, int);
 	if (c <= 127)
 		lol->rin = ft_helpcbig4(lol, c);
