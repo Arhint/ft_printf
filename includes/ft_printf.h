@@ -6,7 +6,7 @@
 /*   By: ssavchen <ssavchen@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/02/12 15:54:29 by ssavchen          #+#    #+#             */
-/*   Updated: 2018/02/12 16:33:19 by ssavchen         ###   ########.fr       */
+/*   Updated: 2018/02/13 12:52:48 by ssavchen         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -109,6 +109,7 @@ int				ft_print_bs(t_flg *lol, wchar_t *s);
 ** ft_print_u
 */
 int				ft_print_u(va_list ap, t_flg *lol, int c);
+int				ft_print_b(va_list ap, t_flg *lol);
 /*
 ** ft_print_x
 */

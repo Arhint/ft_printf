@@ -6,7 +6,7 @@
 /*   By: ssavchen <ssavchen@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/02/12 15:06:06 by ssavchen          #+#    #+#             */
-/*   Updated: 2018/02/12 17:40:42 by ssavchen         ###   ########.fr       */
+/*   Updated: 2018/02/13 12:52:24 by ssavchen         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -51,6 +51,8 @@ int		ft_cook(char *s, va_list ap, int i, t_flg *lol)
 		ft_print_u(ap, lol, s[i]);
 	if (s[i] == 'S')
 		ft_print_bigs(ap, lol);
+	if (s[i] == 'b')
+		ft_print_b(ap, lol);
 	return (i);
 }
 
@@ -68,7 +70,7 @@ int		ft_define(char *s, va_list ap, t_flg *lol)
 		}
 		if (s[i] == '%')
 			i = ft_fill_flg(lol, s, i);
-		if ((ft_strchr("sSpdDioOuUxXcC", s[i])))
+		if ((ft_strchr("sSpdDioOuUxXcCb", s[i])))
 			i = ft_cook(s, ap, i, lol);
 		else
 			ft_print_cc(lol, s[i]);
